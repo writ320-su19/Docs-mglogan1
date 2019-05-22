@@ -4,7 +4,7 @@
 
 Embed files from the assets folder elsewhere in the repository using the relative path of the file:
 
-` ![this is a description of the file](assets/image.jpg)`
+` ![this is a description of the file](assets/filename.jpg)`
 
 ![Pallas Cat](image.jpg)
 
